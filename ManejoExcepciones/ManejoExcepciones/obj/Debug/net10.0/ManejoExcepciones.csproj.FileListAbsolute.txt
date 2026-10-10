@@ -1,0 +1,15 @@
+C:\Users\UNIFRANZ-FEXCO\Desktop\ProgramacionFundamental\PortafolioProgramacionFundamental\ManejoExcepciones\ManejoExcepciones\bin\Debug\net10.0\ManejoExcepciones.exe
+C:\Users\UNIFRANZ-FEXCO\Desktop\ProgramacionFundamental\PortafolioProgramacionFundamental\ManejoExcepciones\ManejoExcepciones\bin\Debug\net10.0\ManejoExcepciones.deps.json
+C:\Users\UNIFRANZ-FEXCO\Desktop\ProgramacionFundamental\PortafolioProgramacionFundamental\ManejoExcepciones\ManejoExcepciones\bin\Debug\net10.0\ManejoExcepciones.runtimeconfig.json
+C:\Users\UNIFRANZ-FEXCO\Desktop\ProgramacionFundamental\PortafolioProgramacionFundamental\ManejoExcepciones\ManejoExcepciones\bin\Debug\net10.0\ManejoExcepciones.dll
+C:\Users\UNIFRANZ-FEXCO\Desktop\ProgramacionFundamental\PortafolioProgramacionFundamental\ManejoExcepciones\ManejoExcepciones\bin\Debug\net10.0\ManejoExcepciones.pdb
+C:\Users\UNIFRANZ-FEXCO\Desktop\ProgramacionFundamental\PortafolioProgramacionFundamental\ManejoExcepciones\ManejoExcepciones\obj\Debug\net10.0\ManejoExcepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNIFRANZ-FEXCO\Desktop\ProgramacionFundamental\PortafolioProgramacionFundamental\ManejoExcepciones\ManejoExcepciones\obj\Debug\net10.0\ManejoExcepciones.AssemblyInfoInputs.cache
+C:\Users\UNIFRANZ-FEXCO\Desktop\ProgramacionFundamental\PortafolioProgramacionFundamental\ManejoExcepciones\ManejoExcepciones\obj\Debug\net10.0\ManejoExcepciones.AssemblyInfo.cs
+C:\Users\UNIFRANZ-FEXCO\Desktop\ProgramacionFundamental\PortafolioProgramacionFundamental\ManejoExcepciones\ManejoExcepciones\obj\Debug\net10.0\ManejoExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\UNIFRANZ-FEXCO\Desktop\ProgramacionFundamental\PortafolioProgramacionFundamental\ManejoExcepciones\ManejoExcepciones\obj\Debug\net10.0\ManejoExcepciones.sourcelink.json
+C:\Users\UNIFRANZ-FEXCO\Desktop\ProgramacionFundamental\PortafolioProgramacionFundamental\ManejoExcepciones\ManejoExcepciones\obj\Debug\net10.0\ManejoExcepciones.dll
+C:\Users\UNIFRANZ-FEXCO\Desktop\ProgramacionFundamental\PortafolioProgramacionFundamental\ManejoExcepciones\ManejoExcepciones\obj\Debug\net10.0\refint\ManejoExcepciones.dll
+C:\Users\UNIFRANZ-FEXCO\Desktop\ProgramacionFundamental\PortafolioProgramacionFundamental\ManejoExcepciones\ManejoExcepciones\obj\Debug\net10.0\ManejoExcepciones.pdb
+C:\Users\UNIFRANZ-FEXCO\Desktop\ProgramacionFundamental\PortafolioProgramacionFundamental\ManejoExcepciones\ManejoExcepciones\obj\Debug\net10.0\ManejoExcepciones.genruntimeconfig.cache
+C:\Users\UNIFRANZ-FEXCO\Desktop\ProgramacionFundamental\PortafolioProgramacionFundamental\ManejoExcepciones\ManejoExcepciones\obj\Debug\net10.0\ref\ManejoExcepciones.dll

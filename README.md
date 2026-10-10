@@ -1,1 +1,2 @@
 # PortafolioProgramacionFundamental
+Gonzalo Andre Galarza Vargas
